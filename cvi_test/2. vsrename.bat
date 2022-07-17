@@ -1,0 +1,1 @@
+vsrename.exe cvi_test cvi_test .\
